@@ -43,7 +43,6 @@
 🤖 ASP.NET Core 8 API + SignalR + SQL Server  
 🔬 AI Models for Radiology Image Classification & Symptom Prediction  
 💬 Real-time Doctor–Patient Chat + Booking System  
-📱 Flutter Frontend Integration  
 👉 [View Repository](https://github.com/MohamedHawy14/Brain-Hope.git)
 
 <p align="center">
