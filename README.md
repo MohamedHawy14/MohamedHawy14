@@ -70,5 +70,4 @@
 - 📧 Email: Mohamedsaadfathey20192019@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-saad-bb0119242)  
 - 💻 [GitHub](https://github.com/MohamedHawy14)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-saad-bb0119242)  
-- 💻 [GitHub](https://github.com/MohamedHawy14)
+
